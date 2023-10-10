@@ -1,2 +1,2 @@
 
-file 6
+Modified file 6
